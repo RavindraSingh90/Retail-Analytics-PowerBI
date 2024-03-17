@@ -20,27 +20,27 @@ Etc…
 
 ### Data Dictionary:
 #### “Sales_Data_Ecommerce “ Data Set:
-user_id: Unique id of customer
-event_date: Date of event
-Day_of_Week: Day of week of the event
-Channel: Which channel used (App/Browser)
-event_time: Time of event
-event_hour: Hour of event
-event_timezone: Time zone
-event_type: Type of event (view, cart, purchased)
-product_id: Unique id of product
-category_id: Unique id of category
-category: Category description
-sub_category1: Sub category description-level1
-sub_category2: Sub category description-level2
-brand: Brand name
-price: Price of product
-user_session: Unique id of user session
-State: State
-User_Score: Segmentation of customer
+  user_id: Unique id of customer
+  event_date: Date of event
+  Day_of_Week: Day of week of the event
+  Channel: Which channel used (App/Browser)
+  event_time: Time of event
+  event_hour: Hour of event
+  event_timezone: Time zone
+  event_type: Type of event (view, cart, purchased)
+  product_id: Unique id of product
+  category_id: Unique id of category
+  category: Category description
+  sub_category1: Sub category description-level1
+  sub_category2: Sub category description-level2
+  brand: Brand name
+  price: Price of product
+  user_session: Unique id of user session
+  State: State
+  User_Score: Segmentation of customer
 
 #### “Promotions“ Data Set:
-Promotion Id: Promotion Type
-Date: Date of promotion
-Discount: Discount%
-ProductId: Unique id of product
+  Promotion Id: Promotion Type
+  Date: Date of promotion
+  Discount: Discount%
+  ProductId: Unique id of product
